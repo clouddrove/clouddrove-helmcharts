@@ -1,0 +1,16 @@
+# packages/.artifacthub-repo.yml
+
+repositoryID: 5bc57007-3582-4361-8748-c7cdebfcf4ac
+name: helmchart-clouddrove
+displayName: Akonverma Helm Charts - Clouddrove
+description: A collection of Helm charts maintained by Akon Verma for Clouddrove
+homeURL: https://github.com/akonverma97/helmchart
+repoURL: https://github.com/akonverma97/helmchart
+type: helm
+publisher:
+  name: Akon Verma
+  email: ashish.verma@clouddrove.com
+  url: https://github.com/akonverma97
+owners:
+  - name: Akon Verma
+    email: ashish.verma@clouddrove.com
